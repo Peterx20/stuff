@@ -1,6 +1,7 @@
 // This code was written with the help of an udemy course. As we see.. not all teachers should be teachers.
+// As far as i remember, all the functions needed to be set to public and some other stuff did not work out as well.
 
-pragma solidity 4.0.8;
+pragma solidity ^4.0.8;
 
 contract admined{
 	address public admin;
